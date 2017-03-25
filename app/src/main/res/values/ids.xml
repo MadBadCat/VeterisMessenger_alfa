@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="listView" type="id">listView</item>
+    <item name="menu_signout" type="id">menu_signout</item>
+</resources>

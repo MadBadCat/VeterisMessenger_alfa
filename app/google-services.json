@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1091144334126",
+    "firebase_url": "https://veterismessengeralfa.firebaseio.com",
+    "project_id": "veterismessengeralfa",
+    "storage_bucket": "veterismessengeralfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091144334126:android:f38bb95372f54d91",
+        "android_client_info": {
+          "package_name": "com.example.aazmund.veterismessenger_alfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091144334126-uc6q4rcaong1irv6t90n0fc7sfu3msi6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aazmund.veterismessenger_alfa",
+            "certificate_hash": "01d07851c6ad80077bb2bd45f08f4c339c390952"
+          }
+        },
+        {
+          "client_id": "1091144334126-pl0pah9m9e8kocae7vk662o70skf21nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6a_J_yeosN0JH-8rpvSiIAGlas1vlchA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091144334126-pl0pah9m9e8kocae7vk662o70skf21nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
